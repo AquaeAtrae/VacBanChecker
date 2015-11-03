@@ -29,7 +29,7 @@ Added groups support! To use, visit a group page, click on "View All" under the 
 
 # Credits
 
-This tool has done more to improve morale in multiplayer games than any other! Great work MyHayato and iEyepawd!
+This tool has done more to improve morale in multiplayer games than any other! Great work MyHayato and iEyepawd! - AquaeAtrae
 
 Credits go out to [MrHayato's original bookmarklet](https://github.com/MrHayato/VacBanChecker)
 and [iEyepawd](http://www.reddit.com/user/iEyepawd) from this [reddit post](http://www.reddit.com/r/GlobalOffensive/comments/348292/i_made_a_userscript_to_easily_show_vac_bans_on/). His idea inspired me to write a version that can be easily used as a bookmarklet.
