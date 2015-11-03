@@ -11,7 +11,7 @@
 Pro tip: This bookmarklet also works under the other tabs on that page, including the "All Friends" tab! And it also
 works on your friend's friends list! Just go to their profile page, click "Friends" on the right panel, and use the bookmarklet to see their friend's vac bans!
 
-UPDATE: Now extended to function on Steam Community Groups under both "View Members" and [b]"Manage Group Members"[/b]. With this, community admins can quickly sweep their member lists and clear any banned players.
+UPDATE: Now extended to function on Steam Community Groups under both "View Members" and **"Manage Group Members"**. With this, community admins can quickly sweep their member lists and clear any banned players.
 
 ### How to install: visual instructions
 
